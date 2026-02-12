@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently studying in SR university 
+I am currently studying in SR university , I am open for working any internships 
 
 
 ## 🌐 Socials:
