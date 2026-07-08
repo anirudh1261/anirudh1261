@@ -33,16 +33,7 @@ currently:   Building Agentic AI Systems with LangGraph & MCP
 
 ---
 
-<!-- GitHub Trophies -->
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=anirudh1261&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 <!-- Tech Stack -->
 ## 💻 Tech Stack
