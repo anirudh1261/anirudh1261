@@ -135,14 +135,14 @@ Git         ████████████████░░░░   80%
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anirudh1261&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudh1261&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anirudh1261&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com/?user=anirudh1261&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh1261&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800" width="50%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh1261&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&count_private=true" width="50%" alt="Top Languages"/>
 
 </div>
 
