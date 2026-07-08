@@ -159,21 +159,6 @@ Git         ████████████████░░░░   80%
 
 ---
 
-<!-- Snake Animation -->
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anirudh1261/anirudh1261/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anirudh1261/anirudh1261/output/github-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/anirudh1261/anirudh1261/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
 <!-- Connect -->
 ## 🌐 Connect with Me
 
