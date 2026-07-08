@@ -80,10 +80,6 @@ Git         ████████████
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://huggingface.co/anirudh1261">
-<img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</a>
-
 <a href="mailto:anirudh.ganji15@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -93,6 +89,6 @@ Git         ████████████
 
 <p align="center">
 <a href="https://github.com/anirudh1261">
-<img src="https://github-readme-stats.vercel.app/api?username=anirudh1261&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&cache_seconds=1800" alt="anirudh1261's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=anirudh1261&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="anirudh1261's GitHub stats" width="495" />
 </a>
 </p>
