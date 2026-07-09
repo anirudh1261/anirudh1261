@@ -133,8 +133,6 @@ Git         ████████████████░░░░   80%
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=anirudh1261&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="180em" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=anirudh1261&theme=dark&hide_border=true" height="180em" alt="GitHub Streak"/>
 
 </div>
 
@@ -143,8 +141,6 @@ Git         ████████████████░░░░   80%
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anirudh1261&layout=compact&theme=dark&hide_border=true&langs_count=10" height="180em" alt="Top Languages"/>
 
 </div>
-
----
 
 ---
 
