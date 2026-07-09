@@ -132,28 +132,19 @@ Git         ████████████████░░░░   80%
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anirudh1261&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="180em" alt="GitHub Stats"/>
+<img src="https://github-stats-extended.vercel.app/api?username=anirudh1261&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="180em" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudh1261&theme=dark&hide_border=true" height="180em" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=anirudh1261&theme=dark&hide_border=true" height="180em" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh1261&layout=compact&theme=dark&hide_border=true&langs_count=10" height="180em" alt="Top Languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anirudh1261&layout=compact&theme=dark&hide_border=true&langs_count=10" height="180em" alt="Top Languages"/>
 
 </div>
 
 ---
-
-<!-- Activity Graph -->
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anirudh1261&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
