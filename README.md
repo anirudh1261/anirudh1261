@@ -132,7 +132,11 @@ Git         ████████████████░░░░   80%
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=anirudh1261&theme=dark&hide_border=true" height="180em" alt="GitHub Streak"/>
+<!-- Real-time GitHub stats with short cache -->
+<img src="https://github-readme-stats.vercel.app/api?username=anirudh1261&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="180em" alt="GitHub Stats"/>
+
+<!-- Streak Stats with IST timezone for accurate current streak -->
+<img src="https://streak-stats.demolab.com?user=anirudh1261&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata&mode=daily&card_width=500" height="180em" alt="GitHub Streak"/>
 
 </div>
 
