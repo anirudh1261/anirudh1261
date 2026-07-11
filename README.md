@@ -133,6 +133,23 @@ Git         ████████████████░░░░   80%
 
 ---
 
+<!-- Featured Projects -->
+## 🏗️ Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|:---|:---|:---|
+| 🤖 **Agentic AI System** | Multi-agent RAG pipeline with LangGraph & MCP | Python · LangGraph · FastAPI · Redis |
+| 🌐 **Full Stack Dashboard** | Real-time analytics dashboard with REST APIs | React · Node.js · MongoDB · Docker |
+| 🧠 **LLM Fine-Tuning Pipeline** | Custom fine-tuning workflow for domain-specific LLMs | Python · HuggingFace · TensorFlow |
+| 📊 **RAG Knowledge Base** | Retrieval-Augmented Generation with vector search | LangChain · OpenAI · FastAPI · SQL |
+| ⚡ **AI Automation Toolkit** | Automated AI pipelines for data processing & insights | Python · Pandas · Plotly · FastAPI |
+
+</div>
+
+---
+
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
