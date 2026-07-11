@@ -163,6 +163,14 @@ Git         ████████████████░░░░   80%
 
 </div>
 
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=anirudh1261&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh1261&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160em" alt="Top Languages"/>
+
+</div>
+
 ---
 
 <!-- GitHub Graph -->
