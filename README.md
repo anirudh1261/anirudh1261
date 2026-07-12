@@ -160,7 +160,7 @@ Git         ████████████████░░░░   80%
 </div>
 
 ---
-
+<img src="https://streak-stats.demolab.com?user=anirudh1261&theme=tokyonight"/>
 
 <!-- Connect -->
 ## 🌐 Connect with Me
