@@ -150,29 +150,6 @@ Git         ████████████████░░░░   80%
 
 ---
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Real-time GitHub stats with short cache -->
-<img src="https://github-readme-stats.vercel.app/api?username=anirudh1261&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="180em" alt="GitHub Stats"/>
-
-<!-- Streak Stats with IST timezone for accurate current streak -->
-<img src="https://streak-stats.demolab.com?user=anirudh1261&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata&mode=daily&card_width=500" height="180em" alt="GitHub Streak"/>
-
-</div>
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=anirudh1261&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh1261&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160em" alt="Top Languages"/>
-
-</div>
-
----
-
 <!-- GitHub Graph -->
 ## 📈 GitHub Graph
 
