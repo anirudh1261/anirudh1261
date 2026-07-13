@@ -192,6 +192,12 @@ Git         ████████████████░░░░   80%
 
 ---
 
+<!-- Profile Views -->
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=anirudh1261&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS)
+
+</div>
 
 
 <!-- Footer -->
