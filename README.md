@@ -150,11 +150,18 @@ Git         ████████████████░░░░   80%
 
 ---
 
-<!-- GitHub Graph -->
-## 📈 GitHub Graph
+<!-- GitHub Graph & Stats Cards -->
+## 📈 GitHub Activity & Stats
 
 <div align="center">
 
+<!-- Profile Summary: Stats Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anirudh1261&theme=2077" alt="GitHub Stats Card"/>
+&nbsp;
+<!-- Profile Summary: Productive Time -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anirudh1261&theme=2077&utcOffset=5.5" alt="GitHub Productive Time"/>
+
+<!-- Profile Contribution Graph -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anirudh1261&theme=2077" alt="GitHub Contribution Graph"/>
 
 </div>
