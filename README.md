@@ -168,15 +168,6 @@ Git         ████████████████░░░░   80%
 
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=anirudh1261&theme=tokyonight" alt="GitHub Streak" />
-
-</div>
-
----
 
 <!-- Connect -->
 ## 🌐 Connect with Me
